@@ -1,0 +1,13 @@
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.exe
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.deps.json
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.runtimeconfig.json
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.runtimeconfig.dev.json
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.dll
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\bin\Debug\netcoreapp3.1\Explicación de flyweight.pdb
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.AssemblyInfo.cs
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.dll
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.pdb
+C:\Users\admin\Downloads\Flyweight\Flyweight\Explicación de flyweight\obj\Debug\netcoreapp3.1\Explicación de flyweight.genruntimeconfig.cache
